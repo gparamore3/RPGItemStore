@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPGItemStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76483c60c11fd4dbb9f07ff8ad1cf0c258b4088e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPGItemStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPGItemStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
