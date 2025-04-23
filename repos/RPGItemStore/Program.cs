@@ -11,7 +11,7 @@ class Program
             { "Sword", 50 },
             { "Health Potion", 25 },
             { "Shield", 40 },
-            { "Magic Rings", 70 }
+            { "Magic Ring", 70 }
         };
 
         Console.WriteLine("Welcome to the Adventurer's Item Shop!");
