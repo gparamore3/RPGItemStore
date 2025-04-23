@@ -1,0 +1,14 @@
+C:\Users\B220\source\repos\RPGItemStore\bin\Debug\net8.0\RPGItemStore.exe
+C:\Users\B220\source\repos\RPGItemStore\bin\Debug\net8.0\RPGItemStore.deps.json
+C:\Users\B220\source\repos\RPGItemStore\bin\Debug\net8.0\RPGItemStore.runtimeconfig.json
+C:\Users\B220\source\repos\RPGItemStore\bin\Debug\net8.0\RPGItemStore.dll
+C:\Users\B220\source\repos\RPGItemStore\bin\Debug\net8.0\RPGItemStore.pdb
+C:\Users\B220\source\repos\RPGItemStore\obj\Debug\net8.0\RPGItemStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B220\source\repos\RPGItemStore\obj\Debug\net8.0\RPGItemStore.AssemblyInfoInputs.cache
+C:\Users\B220\source\repos\RPGItemStore\obj\Debug\net8.0\RPGItemStore.AssemblyInfo.cs
+C:\Users\B220\source\repos\RPGItemStore\obj\Debug\net8.0\RPGItemStore.csproj.CoreCompileInputs.cache
+C:\Users\B220\source\repos\RPGItemStore\obj\Debug\net8.0\RPGItemStore.dll
+C:\Users\B220\source\repos\RPGItemStore\obj\Debug\net8.0\refint\RPGItemStore.dll
+C:\Users\B220\source\repos\RPGItemStore\obj\Debug\net8.0\RPGItemStore.pdb
+C:\Users\B220\source\repos\RPGItemStore\obj\Debug\net8.0\RPGItemStore.genruntimeconfig.cache
+C:\Users\B220\source\repos\RPGItemStore\obj\Debug\net8.0\ref\RPGItemStore.dll
