@@ -1,0 +1,13 @@
+Commit Reflection
+- Uploaded files
+- Created basic item store with purchase logic by copy and pasting the code given for the assignment into VS.
+- Did a test to see if the repository would update by adding a letter to one of the store items. Successful.
+- Reverted the changes by taking the extra letter out of the store item "Magic Rings." 
+= Uploaded a .gitignore file
+- Uploaded a README.md file
+
+What I learned about Git/GitHub:
+
+I learned that GitHub makes it easier for teams to make edits to their projects by not having to upload the entire project files which can be time consuming.
+It allows for revisions and edits to be seen on each file for the team which can make coordinating a lot simpler.
+You can Push, Pull, and Commit the changes for everyone to see.
